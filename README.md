@@ -1,4 +1,4 @@
-# Badges plugin
+ # Badges plugin
 Let your users show appreciation for their fellow colleagues by granting badges.
 
 ## Install
